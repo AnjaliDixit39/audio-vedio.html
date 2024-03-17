@@ -1,0 +1,8 @@
+P{
+
+    background-color: black!important; /* agr huma clr  chng krna hai to bs override krna hai to important krdo*/
+    color: white !important;
+    padding: 10px;
+    text-align: justify;
+    font-size: 25px;
+}
